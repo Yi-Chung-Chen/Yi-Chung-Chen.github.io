@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-stylins",
+          title: "Stylins",
+          description: "Information about my previous startup project, Stylins - an online virtual try-on service.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/stylins/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -441,13 +448,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%63%68%65%6E%35%32%36%32@%70%75%72%64%75%65.%65%64%75", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -460,13 +460,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/yi-chung-chen-b21002225", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

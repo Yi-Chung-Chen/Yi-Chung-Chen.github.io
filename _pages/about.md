@@ -33,4 +33,4 @@ Prior to my PhD, I earned my M.S. in Communication Engineering from National Tai
 
 I have professional experience as an engineer at Mediatek (2023-2024), where I developed model quantization tools. I also co-founded Stylins, an online virtual try-on service startup, although the venture has since ceased operations.
 
-My research interests span various aspects of machine learning, including **quantization for diffusion models**, **federated learning contribution evaluation**, **computer vision applications**, and **WiFi-based human sensing**. Through my work, I aim to bridge the gap between cutting-edge AI research and practical, accessible applications.
+My primary research interest lies in **trustworthy machine learning**, with a focus on advancing **robustness** and **explainability** to enable reliable AI applications. My recent work investigates **conditional generative models** for classification, which offer promising advantages in robustness and interpretability. In the past, I have explored various topics including **computer vision**, **model quantization**, and **federated learning**.

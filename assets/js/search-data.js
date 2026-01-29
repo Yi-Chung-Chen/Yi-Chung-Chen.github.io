@@ -469,6 +469,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=7UI6GS8AAAAJ", "_blank");
         },
       },{
+        id: 'social-cv_link',
+        title: 'Cv_link',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/CV_yichung_academic_current.pdf", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',

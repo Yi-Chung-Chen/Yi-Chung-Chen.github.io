@@ -469,11 +469,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=7UI6GS8AAAAJ", "_blank");
         },
       },{
-        id: 'social-cv_link',
-        title: 'Cv_link',
+        id: 'social-cv_pdf',
+        title: 'Cv_pdf',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_yichung_academic_current.pdf", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',

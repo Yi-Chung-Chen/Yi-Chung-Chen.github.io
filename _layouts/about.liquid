@@ -48,6 +48,12 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Experience -->
+    {% if page.experience %}
+      <h2>experience</h2>
+      {% include experience.liquid %}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>

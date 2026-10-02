@@ -1,0 +1,30 @@
+<div class="experience">
+  {% for item in site.data.experience %}
+    <div class="experience-item">
+      <div class="experience-logo">
+        {% if item.logo %}
+          <img src="{{ item.logo | prepend: 'assets/img/logos/' | relative_url }}" alt="{{ item.company }} logo" loading="lazy">
+        {% else %}
+          <span class="experience-monogram">{{ item.company | slice: 0 }}</span>
+        {% endif %}
+      </div>
+      <div class="experience-body">
+        <div class="experience-header">
+          <span class="experience-role">{{ item.role }}</span>
+          <span class="experience-dates">{{ item.dates }}</span>
+        </div>
+        <div class="experience-company">
+          {% if item.url -%}
+            <a href="{{ item.url | relative_url }}">{{ item.company }}</a>
+          {%- else -%}
+            {{- item.company -}}
+          {%- endif %}
+          · {{ item.location }}
+        </div>
+        {% if item.description %}
+          <div class="experience-description">{{ item.description }}</div>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

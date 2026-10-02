@@ -1,0 +1,25 @@
+# Work experience shown on the homepage (see _includes/experience.liquid).
+# logo: file in assets/img/logos/; leave empty to show a text badge instead.
+- role: PhD Software Engineer Intern
+  company: Uber AV Labs
+  url: https://www.uber.com/
+  location: Sunnyvale, CA
+  dates: May 2026 – Aug 2026
+  logo: uber.svg
+  description: Developed TraVEL, a trajectory-guided GRPO framework that adapts vision-language embeddings for motion-aware driving-video retrieval.
+
+- role: Engineer
+  company: MediaTek
+  url: https://www.mediatek.com/
+  location: Hsinchu, Taiwan
+  dates: Sep 2023 – Sep 2024
+  logo: mediatek.svg
+  description: Led the team's first research project on diffusion model quantization for on-device image generation (NeurIPS 2024).
+
+- role: Co-founder
+  company: Stylins
+  url: /stylins/
+  location: Taipei, Taiwan
+  dates: Nov 2021 – Feb 2023
+  logo:
+  description: Built a high-resolution, real-time virtual try-on service with size-aware clothing adjustment (ICCV 2023).

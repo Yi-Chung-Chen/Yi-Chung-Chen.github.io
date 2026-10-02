@@ -21,5 +21,5 @@
   url: /stylins/
   location: Taipei, Taiwan
   dates: Nov 2021 – Feb 2023
-  logo:
+  logo: stylins.png
   description: Built a high-resolution, real-time virtual try-on service with size-aware clothing adjustment (ICCV 2023).

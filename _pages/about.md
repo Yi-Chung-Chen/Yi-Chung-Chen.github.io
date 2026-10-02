@@ -32,6 +32,4 @@ I am a second-year PhD student in Electrical and Computer Engineering at Purdue 
 
 Prior to my PhD, I earned my M.S. in Communication Engineering from National Taiwan University (2021-2023), where I was advised by [Prof. Ming-Syan Chen](https://arbor.ee.ntu.edu.tw/~mschen/). I completed my B.S. in Electronic Engineering at National Yang Ming Chiao Tung University (2017-2021), where I was mentored by [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw) and [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/).
 
-In summer 2026, I interned at Uber AV Labs, working on motion-aware driving-video retrieval. Before that, I was an engineer at MediaTek (2023-2024), where I worked on model quantization. I also co-founded Stylins, an online virtual try-on service startup, although the venture has since ceased operations.
-
 My primary research interest lies in **trustworthy machine learning**, with a focus on advancing **robustness** and **explainability** to enable reliable AI applications. My recent work investigates **conditional generative models** for classification, which offer promising advantages in robustness and interpretability. In the past, I have explored various topics including **computer vision**, **model quantization**, and **federated learning**.

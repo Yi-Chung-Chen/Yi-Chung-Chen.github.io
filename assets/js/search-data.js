@@ -391,16 +391,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-my-phd-in-ece-at-purdue-university-co-advised-by-prof-jing-gao-and-prof-david-inouye",
+          title: 'Started my PhD in ECE at Purdue University, co-advised by Prof. Jing Gao...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-paper-stepbaq-stepping-backward-as-correction-for-quantized-diffusion-models-was-accepted-to-neurips-2024",
+          title: 'Our paper StepbaQ: Stepping backward as Correction for Quantized Diffusion Models was accepted...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-your-var-model-is-secretly-an-efficient-and-explainable-generative-classifier-was-accepted-to-iclr-2026",
+          title: 'Our paper Your VAR Model is Secretly an Efficient and Explainable Generative Classifier...',
+          description: "",
+          section: "News",},{id: "news-joined-uber-av-labs-in-sunnyvale-ca-as-a-phd-software-engineer-intern-for-the-summer",
+          title: 'Joined Uber AV Labs in Sunnyvale, CA as a PhD Software Engineer Intern...',
+          description: "",
+          section: "News",},{id: "news-our-paper-starcraft-motion-a-dataset-for-agent-simulation-in-adversarial-and-partially-observable-scenarios-was-accepted-to-the-neurips-2026-ed-track",
+          title: 'Our paper StarCraft Motion: A Dataset for Agent Simulation in Adversarial and Partially...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

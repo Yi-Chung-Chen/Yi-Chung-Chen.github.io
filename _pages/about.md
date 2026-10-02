@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to includea ll the blog posts
 ---
 
-I am a second-year PhD student in Electrical and Computer Engineering at Purdue University (started 2024), co-advised by [Prof. Jing Gao](https://engineering.purdue.edu/~jinggao/) and [Prof. David Inouye](https://www.davidinouye.com/). My research focuses on **trustworthy machine learning**, with the goal of making advanced artificial intelligence technologies more accessible to everyone.
+I am a third-year PhD student in Electrical and Computer Engineering at Purdue University (started 2024), co-advised by [Prof. Jing Gao](https://engineering.purdue.edu/~jinggao/) and [Prof. David Inouye](https://www.davidinouye.com/). My research focuses on **trustworthy machine learning**, with the goal of making advanced artificial intelligence technologies more accessible to everyone.
 
 Prior to my PhD, I earned my M.S. in Communication Engineering from National Taiwan University (2021-2023), where I was advised by [Prof. Ming-Syan Chen](https://arbor.ee.ntu.edu.tw/~mschen/). I completed my B.S. in Electronic Engineering at National Yang Ming Chiao Tung University (2017-2021), where I was mentored by [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw) and [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/).
 

@@ -28,8 +28,8 @@ latest_posts:
   limit: 3 # leave blank to includea ll the blog posts
 ---
 
-I am a third-year PhD student in Electrical and Computer Engineering at Purdue University (started 2024), co-advised by [Prof. Jing Gao](https://engineering.purdue.edu/~jinggao/) and [Prof. David Inouye](https://www.davidinouye.com/). My research focuses on **trustworthy machine learning for physical AI**.
+I am a third-year PhD student in Electrical and Computer Engineering at Purdue University (started 2024), co-advised by [Prof. Jing Gao](https://engineering.purdue.edu/~jinggao/) and [Prof. David Inouye](https://www.davidinouye.com/). My research focuses on **trustworthy machine learning** and **physical AI**.
 
 Prior to my PhD, I earned my M.S. in Communication Engineering from National Taiwan University (2021-2023), where I was advised by [Prof. Ming-Syan Chen](https://arbor.ee.ntu.edu.tw/~mschen/). I completed my B.S. in Electronic Engineering at National Yang Ming Chiao Tung University (2017-2021), where I was mentored by [Prof. Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw) and [Prof. Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/).
 
-My research interest lies in **trustworthy machine learning** for **physical AI**, with a focus on **robustness**, **interpretability**, and **uncertainty** in **world models**. I am currently interested in **uncertainty-aware planning with world models**. Previously, I have explored **generative classification**, **multi-agent behavior prediction**, **diffusion model quantization**, and **federated learning**.
+My primary research interest lies at the intersection of **trustworthy machine learning** and **physical AI**, with a focus on **robustness**, **interpretability**, and **uncertainty**. I am currently interested in **uncertainty-aware planning with world models**. Previously, I have explored **generative classification**, **multi-agent behavior prediction**, **diffusion model quantization**, and **federated learning**.

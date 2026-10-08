@@ -403,7 +403,7 @@ ninja.data = [{
           section: "News",},{id: "news-joined-uber-av-labs-in-sunnyvale-ca-as-a-phd-software-engineer-intern-for-the-summer",
           title: 'Joined Uber AV Labs in Sunnyvale, CA as a PhD Software Engineer Intern...',
           description: "",
-          section: "News",},{id: "news-our-paper-starcraft-motion-a-dataset-for-agent-simulation-in-adversarial-and-partially-observable-scenarios-was-accepted-to-the-neurips-2026-ed-track",
+          section: "News",},{id: "news-our-paper-starcraft-motion-a-dataset-for-agent-simulation-in-adversarial-and-partially-observable-scenarios-was-accepted-to-the-neurips-2026-evaluations-amp-amp-datasets-e-amp-amp-d-track",
           title: 'Our paper StarCraft Motion: A Dataset for Agent Simulation in Adversarial and Partially...',
           description: "",
           section: "News",},{id: "projects-project-1",
